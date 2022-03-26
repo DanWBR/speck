@@ -31,7 +31,7 @@ var newView = module.exports.new = function() {
         bondThreshold: 1.2,
         bondShade: 0.5,
         atomShade: 0.5,
-        resolution: 768,
+        resolution: 2048,
         dofStrength: 0.0,
         dofPosition: 0.5,
         fxaa: 1
