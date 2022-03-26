@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+<title>948 - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="100" fill="white"/>
+<defs>
+<radialGradient id='radialffffff0ccff' cx='50%' cy='50%' r='50%' fx='30%' fy='30%'>
+  <stop offset=' 0%' stop-color="rgb(255,255,255)"  stop-opacity='1.0'/>
+  <stop offset='100%' stop-color="rgb(12,12,255)"  stop-opacity ='1.0'/>
+</radialGradient>
+<radialGradient id='radialffffffffcc' cx='50%' cy='50%' r='50%' fx='30%' fy='30%'>
+  <stop offset=' 0%' stop-color="rgb(255,255,255)"  stop-opacity='1.0'/>
+  <stop offset='100%' stop-color="rgb(255,12,12)"  stop-opacity ='1.0'/>
+</radialGradient>
+</defs>
+<g transform="translate(0,0)">
+<svg width="100" height="100" x="0" y="0" viewBox="0 0 160 80"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="120.0" y1="40.0" x2="74.7" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="74.7" y1="40.0" x2="40.0" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="74.7" y1="44.2" x2="40.0" y2="44.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="74.7" y1="35.8" x2="40.0" y2="35.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<circle cx="120.000000" cy="40.000000" r="24.000000" opacity="1.000000" style="stroke:black;stroke-width:0.5;fill:url(#radialffffffffcc)"/>
+<text x="124.800000" y="25.888000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >_</text>
+<circle cx="74.745505" cy="40.000000" r="25.818182" opacity="1.000000" style="stroke:black;stroke-width:0.5;fill:url(#radialffffff0ccff)"/>
+<text x="79.545505" y="35.968000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >+</text>
+<circle cx="40.000000" cy="40.000000" r="25.818182" opacity="1.000000" style="stroke:black;stroke-width:0.5;fill:url(#radialffffff0ccff)"/>
+</svg>
+</g>
+</svg>
