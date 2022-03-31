@@ -15705,13 +15705,13 @@ window.onload = function() {
         renderer.render(view);
         requestAnimationFrame(loop);
     }
-
+	
     loop();
 	
 	hideAllControls();
 	
 	$('body,html').bind('pointermove', function(e){e.preventDefault()})
-	
+		
 	loadSample(CID);
 
 }
@@ -16485,7 +16485,7 @@ var newView = module.exports.new = function() {
         bondScale: 0.5,
         rotation: glm.mat4.create(),
         ao: 0.75,
-        aoRes: 256,
+        aoRes: 512,
         brightness: 0.5,
         outline: 0.0,
         spf: 32,
@@ -16493,8 +16493,8 @@ var newView = module.exports.new = function() {
         bondThreshold: 1.2,
         bondShade: 0.5,
         atomShade: 0.5,
-        resolution: 768,
-        dofStrength: 0.0,
+        resolution: 1024,
+        dofStrength: 0.5,
         dofPosition: 0.5,
         fxaa: 1
     };
