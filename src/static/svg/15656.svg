@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg version="1.1" id="topsvg"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="1024px" height="1024px" viewBox="0 0 100 100">
 <title>15656 - Open Babel Depiction</title>
 <rect x="0" y="0" width="100" height="100" fill="white"/>
 <defs>
@@ -16,7 +16,7 @@ xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200p
 </defs>
 <g transform="translate(0,0)">
 <svg width="100" height="100" x="0" y="0" viewBox="0 0 292.96 201.594"
-font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="4"  stroke-linecap="round">
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
 <line x1="184.0" y1="91.0" x2="227.3" y2="76.4" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="1.6"/>
 <polygon points="183.980284 90.994631 187.406353 88.061453 184.420280 95.483270 " stroke-width="1.623027" fill="rgb(0,0,0)"  stroke="rgb(0,0,0)" />
 <line x1="108.9" y1="91.0" x2="65.7" y2="76.3" opacity="0.5" stroke="rgb(0,0,0)"  stroke-width="1.4"/>

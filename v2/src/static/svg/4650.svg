@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg version="1.1" id="topsvg"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="1024px" height="1024px" viewBox="0 0 100 100">
 <title>4650 - Open Babel Depiction</title>
 <rect x="0" y="0" width="100" height="100" fill="white"/>
 <defs>
@@ -20,7 +20,7 @@ xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200p
 </defs>
 <g transform="translate(0,0)">
 <svg width="100" height="100" x="0" y="0" viewBox="0 0 246.195 216.936"
-font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="4"  stroke-linecap="round">
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
 <line x1="206.2" y1="111.5" x2="167.9" y2="111.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="206.2" y1="105.5" x2="167.9" y2="105.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="40.0" y1="105.5" x2="78.3" y2="105.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
@@ -30,12 +30,12 @@ font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="4"  stroke-linecap="r
 <line x1="102.3" y1="69.0" x2="84.8" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="143.9" y1="69.0" x2="161.4" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="78.3" y1="108.5" x2="102.3" y2="147.9" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
-<line x1="116.0" y1="147.9" x2="130.2" y2="147.9" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
-<line x1="117.8" y1="140.7" x2="128.4" y2="140.7" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="102.3" y1="147.9" x2="143.9" y2="147.9" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="108.3" y1="140.7" x2="137.9" y2="140.7" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="143.9" y1="147.9" x2="167.9" y2="108.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="167.9" y1="108.5" x2="143.9" y2="69.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
-<line x1="130.2" y1="69.0" x2="116.0" y2="69.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
-<line x1="128.4" y1="76.2" x2="117.8" y2="76.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="143.9" y1="69.0" x2="102.3" y2="69.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
+<line x1="137.9" y1="76.2" x2="108.3" y2="76.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <line x1="102.3" y1="69.0" x2="78.3" y2="108.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="3.0"/>
 <circle cx="161.376155" cy="176.936239" r="11.272727" opacity="1.000000" style="stroke:black;stroke-width:0.5;fill:url(#radialffffffbfbfbf)"/>
 <circle cx="143.938990" cy="147.908655" r="27.636364" opacity="1.000000" style="stroke:black;stroke-width:0.5;fill:url(#radialffffff666666)"/>

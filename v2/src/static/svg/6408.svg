@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg version="1.1" id="topsvg"
 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200px" viewBox="0 0 100 100">
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="1024px" height="1024px" viewBox="0 0 100 100">
 <title>6408 - Open Babel Depiction</title>
 <rect x="0" y="0" width="100" height="100" fill="white"/>
 <defs>
@@ -24,7 +24,7 @@ xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="200px" height="200p
 </defs>
 <g transform="translate(0,0)">
 <svg width="100" height="100" x="0" y="0" viewBox="0 0 192.76 152.2"
-font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="4"  stroke-linecap="round">
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
 <line x1="152.8" y1="89.8" x2="109.4" y2="60.7" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="1.4"/>
 <line x1="72.1" y1="112.2" x2="73.2" y2="86.2" opacity="0.5" stroke="rgb(0,0,0)"  stroke-width="0.7"/>
 <line x1="40.0" y1="64.5" x2="73.2" y2="86.2" opacity="0.2" stroke="rgb(0,0,0)"  stroke-width="1.4"/>
