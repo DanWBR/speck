@@ -16493,7 +16493,7 @@ var newView = module.exports.new = function() {
             x: 0.0,
             y: 0.0
         },
-        atomScale: 0.24,
+        atomScale: 0.6,
         relativeAtomScale: 0.64,
         bondScale: 0.5,
         rotation: glm.mat4.create(),
@@ -16502,14 +16502,14 @@ var newView = module.exports.new = function() {
         brightness: 0.5,
         outline: 0.0,
         spf: 32,
-        bonds: true,
+        bonds: false,
         bondThreshold: 1.2,
         bondShade: 0.5,
         atomShade: 0.5,
-        resolution: 1024,
+        resolution: 768,
         dofStrength: 0.0,
         dofPosition: 0.5,
-        fxaa: 1
+        fxaa: 0
     };
 };
 
